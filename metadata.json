@@ -2,7 +2,7 @@
   "chainId": 101,
   "address": "DoU8rD8JNmBfxAHe6sUiT8v7ss1tb9CZttFygyCRg1wX",
   "symbol": "HDEATH",
-  "name": "August 12 Heat Death Of The Universe",
+  "name": "Heat death Of the Universe",
   "decimals": 9,
   "logoURI": "https://i.imgur.com/CZjGjff.jpg",
   "tags": [
@@ -17,3 +17,4 @@
       "primarySaleHappened": false
   }
 }
+
